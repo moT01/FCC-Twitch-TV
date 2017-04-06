@@ -1,6 +1,6 @@
 ## FCC-Twitch-TV
 ##### Twitch.tv project for [freecodecamp.com](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api)
-##### Check it out [here](http://htmlpreview.github.io/?https://github.com/moT01/FCC-Twitch-TV/blob/master/index.html)
+##### Check it out [here](https://mot01.github.io/FCC-Twitch-TV/)
 
 <br/>
 <br/>
