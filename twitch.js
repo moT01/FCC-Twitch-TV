@@ -5,8 +5,8 @@ $(document).ready(function () {
     
     streamers.forEach(function (channel) {
     
-        var channelurl = "https://wind-bow.gomix.me/twitch-api/channels/" + channel,
-            streamurl = "https://wind-bow.gomix.me/twitch-api/streams/" + channel;
+        var channelurl = "https://wind-bow.glitch.me/twitch-api/channels/" + channel, 
+            streamurl = "https://wind-bow.glitch.me/twitch-api/streams/" + channel;
  
         $.getJSON(streamurl, {format: 'json'}, function (twitchstream) {
             var name, preview, url, status, logo;
