@@ -1,5 +1,5 @@
 ## FCC-Twitch-TV
-##### Twitch.tv project for [freecodecamp.com](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api)
+##### Twitch.tv project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Twitch-TV/)
 
 <br/>
@@ -25,3 +25,4 @@ UPDATE: Due to a change in conditions on API usage explained here Twitch.tv now 
 - CSS
 - JavaScript
 - jQuery
+- [twitch](https://www.twitch.tv/) API
