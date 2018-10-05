@@ -25,4 +25,4 @@ UPDATE: Due to a change in conditions on API usage explained here Twitch.tv now 
 - CSS
 - JavaScript
 - jQuery
-- [twitch](https://www.twitch.tv/) API
+- [Twitch](https://www.twitch.tv/) API
